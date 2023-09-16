@@ -1,2 +1,2 @@
 # AWS_PROJECT
-Created few AWS Cloud project for my professional career and upskill my knowledge.
+Created few AWS Cloud projects for my professional career and upskill my knowledge.
